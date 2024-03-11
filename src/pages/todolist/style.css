@@ -1,0 +1,12 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.list {
+  list-style-type: none;
+}
+.itemsCard {
+  border: 1px solid black;
+  margin: 4px;
+  padding: 4px;
+}
